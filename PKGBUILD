@@ -1,7 +1,7 @@
 # Maintainer: DarkXero <info@techxero.com>
 pkgname=xero-pride-wallpapers-git
 _destname1="/"
-pkgver=23.06
+pkgver=23.07
 pkgrel=1
 pkgdesc="XeroLinux Pride-Month Wallpapers"
 arch=('any')
